@@ -1,0 +1,16 @@
+[
+{
+    "name": "luan",
+    "age": 30,
+    "city": "New York",
+    "is_student": "True"
+}
+,
+{
+    "name": "Hunter",
+    "age": 23,
+    "city": "Nigeria",
+    "is_student": "True"
+}
+]
+

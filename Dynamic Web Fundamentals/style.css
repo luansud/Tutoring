@@ -1,0 +1,46 @@
+body{
+    width: 100%;
+}
+
+#FULL_about_me{
+    display: block;
+    border: 2px solid black;
+}
+
+#about_me{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: white;
+}
+
+#p_h3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+
+#text_picture{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#picture{
+    width: 200px;
+}
+
+#picture_h5{
+    text-align: center;
+    margin: 20px 40px 10px 30px;
+}
+
+h5{
+    margin-top: -30px;
+    color: rgb(138, 214, 6);
+    
+}
