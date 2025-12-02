@@ -9,9 +9,10 @@ body{
 
 #about_me{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    background-color: rgb(6, 6, 250);
     color: white;
 }
 
@@ -42,5 +43,16 @@ body{
 h5{
     margin-top: -30px;
     color: rgb(138, 214, 6);
+    
+}
+
+#change{
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
     
 }
